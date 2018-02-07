@@ -1,6 +1,8 @@
 
-public class Test{
-	public static void Main(String[] args) {
+public class Test
+{
+	public static void main(String[] args) 
+	{
 		System.out.println("yes");
 	}
 	
