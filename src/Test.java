@@ -1,4 +1,7 @@
 
-public class Test {
-	private int x;
+public class Test{
+	public static void Main(String[] args) {
+		System.out.println("yes");
+	}
+	
 }
