@@ -7,7 +7,7 @@ public class Test
 
 		System.out.println("yes");
 		System.out.println(1+1+1);
-		
+		System.out.println("yes");
 	}
 	
 }
